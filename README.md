@@ -26,11 +26,6 @@ Anonymization is the process of either Encrypting or removing personally identif
 </p>
 </div>
 
-### TYPE OF GRAPH
-
- <img src="images/types.png" alt="Alt text" style="width: 300px; float: right; margin-left: 10px;">
-
-
 ### GRAPH ANONYMIZATION**
 
 Removing the identities of the nodes before publishing the graph/social network data does not guarantee privacy, the structure of the graph itself, should change to provide privacy for the client
