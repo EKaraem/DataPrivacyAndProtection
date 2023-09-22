@@ -8,10 +8,14 @@ Anonymization is the process of either Encrypting or removing personally identif
 
 ► A node or vertex.
 
-► An edge E or ordered pair is a connection between two nodes (u,v) that is identified by unique pair(u,v).
+► An edge E or ordered pair is a connection between two nodes (u,v) that is identified by a unique pair(u,v).
 
 ### CHARACTERISTICS OF GRAPH
 
+
+<div style="overflow: auto;">
+ <img src="images/Graph.png" alt="Alt text" style="width: 200px; float: right; margin-left: 10px;">
+<p>
 ►Path
 
 ►Adjacent
@@ -19,12 +23,13 @@ Anonymization is the process of either Encrypting or removing personally identif
 ►Degree node
 
 ►Isolated node
-
-![Alt text](images/Graph.png){ width=150px}
+</p>
+</div>
 
 ### TYPE OF GRAPH
 
-![Alt text](images/types.png){ width=150px }
+ <img src="images/types.png" alt="Alt text" style="width: 300px; float: right; margin-left: 10px;">
+
 
 ### GRAPH ANONYMIZATION**
 
