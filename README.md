@@ -20,11 +20,11 @@ Anonymization is the process of either Encrypting or removing personally identif
 
 ►Isolated node
 
-![Alt text](images/Graph.png)
+![Alt text](images/Graph.png){ width=150px}
 
 ### TYPE OF GRAPH
 
-![Alt text](images/types.png)
+![Alt text](images/types.png){ width=150px }
 
 ### GRAPH ANONYMIZATION**
 
